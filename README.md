@@ -1,5 +1,5 @@
 ### 👋 Hi there
-Found me! I'm Thom and I am fascinated by Physics and AI. Currently working on Machine Learning, NLP and Knowledge Graphs at Elsevier in London.
+Found me! I'm Thom and I am fascinated by Physics and AI. Currently working on Machine Learning, NLP and Knowledge Graphs at Elsevier in Amsterdam.
 
 ### 🚀 Tech I like
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=002A32)
